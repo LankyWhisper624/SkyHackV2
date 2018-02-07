@@ -3,7 +3,7 @@ var pos = [0, 0, 0, 0, 0, 0, 0, 0];
 var pass = "";
 var login = "merrijac000"; //set to be whatever username that you want to hack, in this case it is my own.
 //for loops
-for (var a = 0; a < 26; a++) {
+for (var a = 0;/*you can change this to start the password: a=0, b=1, c=2, etc.*/ a < 26; a++) {
     for (var b = 1; b < 26; b++) {
         for (var c = 2; c < 26; c++) {
             for (var d = 3; d < 26; d++) {
